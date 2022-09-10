@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dunghq21102001/todoList-redux.git/static/css/main.a81e1fa4.chunk.css",
+    "main.js": "/dunghq21102001/todoList-redux.git/static/js/main.c4e50775.chunk.js",
+    "main.js.map": "/dunghq21102001/todoList-redux.git/static/js/main.c4e50775.chunk.js.map",
+    "runtime-main.js": "/dunghq21102001/todoList-redux.git/static/js/runtime-main.0a499bd4.js",
+    "runtime-main.js.map": "/dunghq21102001/todoList-redux.git/static/js/runtime-main.0a499bd4.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/dunghq21102001/todoList-redux.git/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.2c709d18.chunk.js": "/dunghq21102001/todoList-redux.git/static/js/2.2c709d18.chunk.js",
+    "static/js/2.2c709d18.chunk.js.map": "/dunghq21102001/todoList-redux.git/static/js/2.2c709d18.chunk.js.map",
+    "index.html": "/dunghq21102001/todoList-redux.git/index.html",
+    "static/css/2.2b8316e7.chunk.css.map": "/dunghq21102001/todoList-redux.git/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.a81e1fa4.chunk.css.map": "/dunghq21102001/todoList-redux.git/static/css/main.a81e1fa4.chunk.css.map",
+    "static/js/2.2c709d18.chunk.js.LICENSE.txt": "/dunghq21102001/todoList-redux.git/static/js/2.2c709d18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a499bd4.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.2c709d18.chunk.js",
+    "static/css/main.a81e1fa4.chunk.css",
+    "static/js/main.c4e50775.chunk.js"
+  ]
+}
